@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shashank9666
-- 👀 I’m interested in AI,data science and machine leaarning,android and ios development,graphic design,animation and vfx,etc
+- 👀 I’m interested in 3d web development,animation,etc
 - 🌱 I’m currently learning computer science subjects and design
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me ...linkedin : https://www.linkedin.com/in/shetty-shashank-58961a244
