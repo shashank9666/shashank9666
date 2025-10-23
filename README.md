@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @shashank9666
+- 👋 Hi, I’m Shashank Shetty
 - 👀 I’m interested in 3d web development,animation,etc
-- 🌱 I’m currently learning computer science subjects and design
+- 👩🏻‍💻 Actively Looking for a Job
+- 🌱 I Completed My Graduation in B.Tech CSE
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me ...linkedin : https://www.linkedin.com/in/shetty-shashank-58961a244
 
